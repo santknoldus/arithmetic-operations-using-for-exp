@@ -11,5 +11,4 @@ object ArithmeticOperationsApp extends App {
   private val subtractionResult = arithmeticOperations.arithmeticOperations(list, "Subtraction")
 
   println(s"$additionResult\n$multiplicationResult\n$subtractionResult")
-
 }
